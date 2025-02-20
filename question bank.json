@@ -1,0 +1,47 @@
+{
+    "physics": [
+        {
+            "question": "What is the SI unit of force?",
+            "options": ["Newton", "Joule", "Watt", "Pascal"],
+            "answer": "TmV3dG9u", // base64 for "Newton"
+            "explanation": "Force is measured in Newtons."
+        },
+        // Add 44 more physics questions (total 45)
+        {
+            "question": "What is acceleration due to gravity?",
+            "options": ["9.8 m/s²", "10 m/s²", "8 m/s²", "12 m/s²"],
+            "answer": "OS44IG0vcyKCrA==", // base64 for "9.8 m/s²"
+            "explanation": "On Earth, it’s approximately 9.8 m/s²."
+        }
+    ],
+    "chemistry": [
+        {
+            "question": "What is the atomic number of Carbon?",
+            "options": ["6", "8", "12", "14"],
+            "answer": "Ng==", // base64 for "6"
+            "explanation": "Carbon has 6 protons."
+        },
+        // Add 44 more chemistry questions (total 45)
+        {
+            "question": "What gas do plants absorb?",
+            "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+            "answer": "Q2FyYm9uIERpb3hpZGU=", // base64 for "Carbon Dioxide"
+            "explanation": "Plants use CO₂ for photosynthesis."
+        }
+    ],
+    "biology": [
+        {
+            "question": "Which organelle is the powerhouse of the cell?",
+            "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi"],
+            "answer": "TWl0b2Nob25kcmlh", // base64 for "Mitochondria"
+            "explanation": "Mitochondria produce ATP."
+        },
+        // Add 89 more biology questions (total 90)
+        {
+            "question": "What is the largest organ in the human body?",
+            "options": ["Liver", "Skin", "Heart", "Brain"],
+            "answer": "U2tpbg==", // base64 for "Skin"
+            "explanation": "Skin is the largest by surface area."
+        }
+    ]
+}
